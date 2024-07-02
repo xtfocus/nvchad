@@ -4,6 +4,5 @@
 - [x] nvim-surround
 - [x] gitsigns.nvim
 - [x] barbecue.nvim
-- debugpy (not working)
 
-TODO: Obsidian + concealler levels, gen nvim
+TODO: gen nvim

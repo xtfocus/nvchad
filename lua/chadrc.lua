@@ -4,11 +4,11 @@
 ---@type ChadrcConfig
 local M = {}
 M.ui = {
-	theme = "vscode_dark",
+	theme = "github_dark",
 
-	-- hl_override = {
-	-- 	Comment = { italic = true },
-	-- 	["@comment"] = { italic = true },
-	-- },
+	hl_override = {
+		Comment = { italic = true },
+		["@comment"] = { italic = true },
+	},
 }
 return M
